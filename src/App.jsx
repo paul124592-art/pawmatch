@@ -282,7 +282,7 @@ export default function App() {
                 milestones and their whole story in one beautiful scrapbook.
               </p>
               <a
-                href="https://timepawz.bolt.host"
+                href="https://timepawz.site"
                 target="_blank"
                 rel="noreferrer"
                 className="mt-4 inline-block rounded-full bg-white px-6 py-3 font-display font-semibold text-paw-green shadow hover:brightness-95"
@@ -486,7 +486,7 @@ export default function App() {
           </p>
           <p className="mt-3">
             Made with care for dog lovers. ·{' '}
-            <a href="https://timepawz.bolt.host" target="_blank" rel="noreferrer" className="font-bold text-paw-green underline">
+            <a href="https://timepawz.site" target="_blank" rel="noreferrer" className="font-bold text-paw-green underline">
               TimePawz
             </a>{' '}
             ·{' '}
